@@ -1,13 +1,13 @@
 {
     "gumroadProductURL": "https://gum.co/rxqNq",
-    "name": "Mohd Danish",
-    "subtitle": "Indie Hacker",
+    "name": "Hour Publish",
+    "subtitle": "Free Publication",
     "about": "I'm 26y old Front-end Engineer with Master Degree but I can do anything related with technology. 🚀 I can make MVP in days, 🧙‍♀️ Magic with NodeJS, 🤖 Automate the boring stuffs, 👨‍💻 Hack the third party APIs for any use case, and I always get a solution of the problem. I'm foodie & love to cook 🍳.",
-    "profileImage": "mddanishyusuf.png",
+    "profileImage": "https://i.postimg.cc/HnYWys4T/hour-publish-logoo.png",
     "links": [
         {
             "name": "Open Source Projects",
-            "link": "https://github.com/mddanishyusuf",
+            "link": "https://github.com/boringcuriosity",
             "type": "github",
             "category": "work"
         },
@@ -19,16 +19,16 @@
         },
         {
             "name": "Let's Connect",
-            "link": "https://twitter.com/mddanishyusuf",
+            "link": "https://twitter.com/boringcuriosity",
             "type": "twitter",
             "category": "social"
         },
         {
             "name": "ProductHunt",
-            "link": "https://www.producthunt.com/@mddanishyusuf",
+            "link": "https://www.producthunt.com/@boringcuriosity",
             "type": "producthunt",
             "category": "social"
         }
     ],
-    "thanksNote": "I'm sending some ♥️ from INDIA. Thanks again for coffees."
+    "thanksNote": "We'll sending some ♥️ from INDIA. Thanks again for Chai."
 }
